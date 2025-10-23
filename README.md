@@ -1,4 +1,4 @@
-# Generative AI and Diffusion Models - Course Projects
+# Generative AI and Diffusion Models
 
 This repository contains four projects implementing foundational concepts and advanced techniques in diffusion models and score-based generative modeling. Each project builds upon theoretical foundations from seminal papers in the field, progressing from simple 1D/2D examples to practical image generation applications.
 
