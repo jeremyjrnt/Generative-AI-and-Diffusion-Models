@@ -549,5 +549,3 @@ These four projects provide a comprehensive journey through diffusion models:
 - Efficient sampling with DDIM
 - PyTorch implementations of diffusion models
 - Evaluation metrics (Chamfer distance, FID)
-
-This comprehensive implementation demonstrates mastery of both theoretical foundations and practical applications of modern diffusion-based generative models.
